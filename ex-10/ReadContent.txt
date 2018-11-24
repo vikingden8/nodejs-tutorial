@@ -1,0 +1,11 @@
+Linux Foundation Collaborative Projects
+报告 Node.js 问题  报告网站问题 获取帮助
+© Node.js Foundation. All Rights Reserved. Portions of this site originally © Joyent.
+
+Node.js is a trademark of Joyent, Inc. and is used with its permission. Please review the Trademark Guidelines of the Node.js Foundation.
+
+Linux Foundation is a registered trademark of The Linux Foundation.
+
+Linux is a registered trademark of Linus Torvalds.
+
+Node.js Project Licensing Information.
